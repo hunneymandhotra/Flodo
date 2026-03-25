@@ -19,7 +19,6 @@ class MyApp extends StatelessWidget {
         title: 'Flodo Task Manager',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
-          useMaterialDesign3: true,
           colorSchemeSeed: Colors.blue,
           brightness: Brightness.light,
         ),
